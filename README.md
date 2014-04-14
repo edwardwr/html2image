@@ -10,9 +10,11 @@ java -Djava.ext.dirs=[Path] [Class] [HTML]
 
 parameters:
 
--Djava.ext.dirs - specify the library path (where the html2iamge is located)
-<Class> - the main class name
-<HTML> - HTML file name
+-Djava.ext.dirs=[Path] - specify the library path (where the html2iamge is located)
+
+[Class] - the main class name
+
+[HTML] - HTML file name
 
 
 Output:
