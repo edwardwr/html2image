@@ -6,7 +6,7 @@ html2image
 
 How To
 ==========
-java -Djava.ext.dirs=<Path> <Class> <HTML>
+java -Djava.ext.dirs=[Path] [Class] [HTML]
 
 parameters:
 
